@@ -1,6 +1,6 @@
 # Da Ideia ao App v6
 
-Curso aberto e gratuito do INEMA. Autor de commits: inematds <inematds@gmail.com>.
+Curso aberto e gratuito do ARCKHÉ. Autor de commits: linnoff88-dev <linnoff88-dev@gmail.com>.
 Formato: ~/.claude/skills/formato-curso-v6. Idioma desta edição: português.
 Leia context/curriculo.md e context/current-state.md antes de editar.
 Fonte das aulas: scripts/conteudo.py; geração: scripts/construir.py. Não editar curso.html diretamente.

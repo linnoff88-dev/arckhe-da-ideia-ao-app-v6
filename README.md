@@ -1,4 +1,4 @@
-﻿# Da Ideia ao App v6
+# Da Ideia ao App v6
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,7 +6,7 @@
 </div>
 
 
-**Desenvolva com IA, passo a passo.** Curso aberto e gratuito do INEMA, em portuguÃªs: 24 aulas, seis mÃ³dulos, aplicativo pessoal de treino e kit editÃ¡vel.
+**Desenvolva com IA, passo a passo.** Curso aberto e gratuito do ARCKHÉ, em portuguÃªs: 24 aulas, seis mÃ³dulos, aplicativo pessoal de treino e kit editÃ¡vel.
 
 Abra `index.html` para a apresentaÃ§Ã£o e `curso.html` para estudar. O laboratÃ³rio fica em `pratica/index.html`. Os registros do laboratÃ³rio ficam no navegador; nÃ£o hÃ¡ contas, colaboraÃ§Ã£o, sincronizaÃ§Ã£o ou proteÃ§Ã£o multiusuÃ¡rio. Use somente dados fictÃ­cios.
 
@@ -38,19 +38,19 @@ RelatÃ³rios em `verificacao/` e `context/`. RevisÃ£o simulada nÃ£o equival
 
 ## PublicaÃ§Ã£o
 
-RepositÃ³rio pÃºblico: https://github.com/inematds/da-ideia-ao-app-v6
+RepositÃ³rio pÃºblico: https://github.com/linnoff88-dev/da-ideia-ao-app-v6
 
-Curso: https://inematds.github.io/da-ideia-ao-app-v6/
+Curso: https://linnoff88-dev.github.io/
 
 GitHub Pages publica a raiz de `main`. O curso integra o catÃ¡logo e o feed de cursos do portal, buscas e PRO.
 
-## Mais no INEMA.CLUB
+## Mais no ARCKHÉ AI
 
-Ficha do curso: https://www.inema.club/cursos/318-da-ideia-ao-app-v6-desenvolva-com-ia-passo-a-passo/
+Ficha do curso: https://www.ARCKHÉ AI/cursos/318-da-ideia-ao-app-v6-desenvolva-com-ia-passo-a-passo/
 
-Guia: https://www.inema.club/aprender-inteligencia-artificial/
+Guia: https://www.ARCKHÉ AI/aprender-inteligencia-artificial/
 
-CatÃ¡logo: https://www.inema.club/cursos/
+CatÃ¡logo: https://www.ARCKHÉ AI/cursos/
 
 ---
 

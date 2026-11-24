@@ -2,9 +2,9 @@
   "id": 318,
   "title": "Da Ideia ao App v6 — Desenvolva com IA, passo a passo",
   "description": "24 aulas curtas para orientar a IA, construir um aplicativo pessoal, testar resultados e preparar uma demonstração. Inclui organizador de demandas, kit editável e práticas com dados fictícios.",
-  "url": "https://inematds.github.io/da-ideia-ao-app-v6/",
-  "ficha": "https://www.inema.club/cursos/318-da-ideia-ao-app-v6-desenvolva-com-ia-passo-a-passo/",
-  "repositorio": "inematds/da-ideia-ao-app-v6",
+  "url": "https://linnoff88-dev.github.io/
+  "ficha": "https://www.ARCKHÉ AI/cursos/318-da-ideia-ao-app-v6-desenvolva-com-ia-passo-a-passo/",
+  "repositorio": "linnoff88-dev/da-ideia-ao-app-v6",
   "enrichment": {
     "tipo": "curso",
     "nivel": "iniciante",
@@ -23,7 +23,7 @@
   "status": "publicado",
   "commits_catalogos": {
     "portal": "c9951c6a8464bb2e6999a06226137fb179ad5bce",
-    "inemabuscas": "e06cce6883601a4bca03d0b1e30d57a0fce0c41d",
-    "inemapro-mono": "dceb2d14d0fe0ab38e699cce5f6621e8b6e5505b"
+    "ARCKHÉbuscas": "e06cce6883601a4bca03d0b1e30d57a0fce0c41d",
+    "ARCKHÉpro-mono": "dceb2d14d0fe0ab38e699cce5f6621e8b6e5505b"
   }
 }

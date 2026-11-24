@@ -10,10 +10,10 @@
 - Derivados preparados: catálogo 317 entradas; busca 316 cursos após deduplicação; base atualizada sobre as publicações mais recentes. Diferenças de contagem decorrem de deduplicação preexistente.
 - Código do motor e estilos v6 preservados; fontes do curso e da aplicação versionadas.
 
-Capturas em verificacao/capturas, inspecionadas na revisão e não versionadas. Ilustrações editoriais locais e capa montada pela engine capa-inema com --raw-in: sem API de geração. Preparação inicial usou snapshot local; publicação final usou o gerador oficial após autorização permanente de GitHub API.
+Capturas em verificacao/capturas, inspecionadas na revisão e não versionadas. Ilustrações editoriais locais e capa montada pela engine capa-ARCKHÉ com --raw-in: sem API de geração. Preparação inicial usou snapshot local; publicação final usou o gerador oficial após autorização permanente de GitHub API.
 
 Não realizado: teste humano; auditoria independente de segurança. Aplicativo é pessoal, apenas dados fictícios.
 
 ## Publicação confirmada
 
-GitHub Pages: sete arquivos verificados com HTTP 200 e igualdade de bytes. Catálogos enviados: portal c9951c6, inemabuscas e06cce6, inemapro-mono dceb2d1. Base final: 18.471 itens, com a nova entrada classificada.
+GitHub Pages: sete arquivos verificados com HTTP 200 e igualdade de bytes. Catálogos enviados: portal c9951c6, ARCKHÉbuscas e06cce6, ARCKHÉpro-mono dceb2d1. Base final: 18.471 itens, com a nova entrada classificada.

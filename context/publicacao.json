@@ -1,7 +1,7 @@
 {
   "id": 318,
   "title": "Da Ideia ao App v6 — Desenvolva com IA, passo a passo",
-  "description": "24 aulas curtas para orientar a IA, construir um aplicativo pessoal, testar resultados e preparar uma demonstração. Inclui organizador de demandas, kit editável e práticas com dados fictícios.",
+  "description": "24 aulas curtas para orientar a IA, construir um aplicativo pessoal, testar resultados e preparar uma demonstraçêo. Inclui organizador de demandas, kit editável e práticas com dados fictícios.",
   "url": "https://linnoff88-dev.github.io/
   "ficha": "https://www.ARCKHÉ AI/cursos/318-da-ideia-ao-app-v6-desenvolva-com-ia-passo-a-passo/",
   "repositorio": "linnoff88-dev/da-ideia-ao-app-v6",
@@ -13,7 +13,7 @@
       "engenharia-arquitetura-software"
     ],
     "problema": [
-      "Quero desenvolver com IA, mas não sei orientar e verificar a entrega."
+      "Quero desenvolver com IA, mas nêo sei orientar e verificar a entrega."
     ],
     "saida": "Conduzir, testar e demonstrar um aplicativo pessoal com limites claros.",
     "status": "atual",

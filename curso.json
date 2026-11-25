@@ -4,7 +4,7 @@
   "titulo_html": "Da ideia ao <em>app</em> <small>v6</small>",
   "curso_curto": "Da Ideia ao App v6",
   "kicker": "Da Ideia ao App v6 · Desenvolvimento com IA",
-  "lead": "Aprenda a orientar a IA, construir uma aplicação pessoal e conferir o resultado. 24 aulas, um organizador de demandas e práticas com dados fictícios.",
+  "lead": "Aprenda a orientar a IA, construir uma aplicaçêo pessoal e conferir o resultado. 24 aulas, um organizador de demandas e práticas com dados fictícios.",
   "rodape": "Da Ideia ao App v6 · ARCKHÉ AI · Curso aberto e gratuito",
   "landing": "index.html",
   "imagem_trilha": "assets/img/trilha.webp",
@@ -13,7 +13,7 @@
   "glossario": true,
   "modulos": [
     {
-      "titulo": "1. Uma ideia que cabe na primeira versão",
+      "titulo": "1. Uma ideia que cabe na primeira versêo",
       "resumo": "Defina público, problema e critérios de pronto.",
       "aulas": [
         1,
@@ -24,7 +24,7 @@
     },
     {
       "titulo": "2. Da conversa para uma tela utilizável",
-      "resumo": "Prepare o treino, construa e preserve uma versão.",
+      "resumo": "Prepare o treino, construa e preserve uma versêo.",
       "aulas": [
         5,
         6,
@@ -64,7 +64,7 @@
     },
     {
       "titulo": "6. Demonstre e evolua com controle",
-      "resumo": "Prepare publicação, operação e uma próxima versão pequena.",
+      "resumo": "Prepare publicaçêo, operaçêo e uma próxima versêo pequena.",
       "aulas": [
         21,
         22,

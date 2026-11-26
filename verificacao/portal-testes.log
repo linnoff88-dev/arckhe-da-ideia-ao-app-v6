@@ -1,5 +1,5 @@
 
-> portal-inema@0.3.0 test
+> portal-ARCKHÉ@0.3.0 test
 > node --test tests/*.mjs
 
 ✔ manifest lists the actual declared WebMCP tools without claiming execution (0.810958ms)
@@ -10,7 +10,7 @@
 ✔ os três dicionários têm exatamente as mesmas chaves (2.44825ms)
 ✔ nenhum valor vazio ou não-string (1.221261ms)
 ✔ pt.json tem as chaves usadas pelo Portal (0.227968ms)
-✔ translated-courses.ts: ids únicos por locale e url github.io ou inema (3.742855ms)
+✔ translated-courses.ts: ids únicos por locale e url github.io ou ARCKHÉ (3.742855ms)
 ✔ toda página /ia/ está registrada, com slug = nome do arquivo e rota no chat (0.498094ms)
 ✔ metadados dentro dos limites de SERP (0.698798ms)
 ✔ translated-courses.ts: cada entrada numa linha só (1.708188ms)
